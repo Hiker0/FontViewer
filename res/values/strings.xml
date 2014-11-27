@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">FontViewer</string>
+	<string name="font_num">0123456789:</string>
+	<string name="font_world">zxcvbnmasdfghjklqwertyuiop</string>
+	<string name="font_world_upcase">ZXCVBNMASDFGHJKLQWERTYUIOP</string>
+</resources>
